@@ -1,0 +1,6 @@
+nimcache/
+.DS_Store
+tests/test_*
+!tests/test_*.nim
+bin/
+.nim-muter/
